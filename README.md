@@ -7,5 +7,5 @@ I wanted to give it a better name like MUDpad, ViGEmac, etc. but I ended up nami
 
 Goals:
 
-The primary motivation for creating this library/software is to allow Parsec developers to incorporate this to allow the emulation of gamepad controllers on macOS hosts.
+The primary motivation for creating this library/software is to allow Parsec developers to incorporate this to enable the emulation of gamepad controllers on macOS hosts.
 Feel free to incorporate this into other projects, free or commercial.
