@@ -23,3 +23,4 @@ Done:
 Research Notes:
 1. VirtualHere is able to successfully create a virtual DS4 controller over the network on macOS and relays the inputs correctly. However, it's sometimes a bit laggy and out of order, probably due to inefficiencies in the networking code/protocol. This proved to me that virtual controllers can be created and controlled on macOS.
 2. Karabiner for macOS uses the same mechanisms to create virtual keyboards and mice.
+3. @tekezo informed me that we can get entitlements for development without a long approval process, so in theory we should be able to begin testing and development right away while we wait for permission to distribute our driver.
