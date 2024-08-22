@@ -9,6 +9,10 @@ Goals:
 
 The primary motivation for creating this library/software is to allow Parsec developers to incorporate this to enable the emulation of gamepad controllers on macOS hosts.
 Feel free to incorporate this into other projects, free or commercial.
+From a Parsec dev: https://discord.com/channels/275729591505780736/413384151702568960/1209884357158764554
+(Although they said this, they are not endorsing or guaranteeing anything, but it is very likely they will implement this feature if our driver works)
+<img width="758" alt="Screenshot 2024-08-22 at 03 53 54" src="https://github.com/user-attachments/assets/9475851d-ac95-4c8d-a1f4-03ac45e7a163">
+
 
 ToDo List:
 
